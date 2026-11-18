@@ -1,0 +1,17 @@
+{
+  "rows_after_exact_duplicate_removal": {
+    "deaths": 917,
+    "predictions": 1946,
+    "battles": 38
+  },
+  "exact_duplicates_removed": {
+    "deaths": 0,
+    "predictions": 0,
+    "battles": 0
+  },
+  "columns": {
+    "deaths": 13,
+    "predictions": 33,
+    "battles": 25
+  }
+}
